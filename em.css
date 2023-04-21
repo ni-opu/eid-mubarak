@@ -1,0 +1,22 @@
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'CharukolaUltraLight', Arial, sans-serif !important;
+    background-color: #131023;
+    text-align: center;
+}
+
+.image {
+    padding: 2% 0;
+}
+
+.content {
+    color: white;
+    padding: 0% 10%;
+    font-size: 1.1rem;
+}
